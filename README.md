@@ -16,7 +16,7 @@ This is a simple C++ console-based application to manage a ration distribution s
 - Standard Template Library (STL): `unordered_map`, `string`, etc.
 - Basic file I/O (optional if extended)
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots 
 
 ![image](https://github.com/user-attachments/assets/1892f7cf-8f75-416f-8db2-aa0372189eea)
 
